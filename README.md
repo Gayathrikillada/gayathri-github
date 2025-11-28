@@ -1,3 +1,5 @@
+![logo](https://github.com/Gayathrikillada/gayathri-github/blob/main/LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Gayathri</h1>
 <h3 align="center">A passionate tech explorer from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRApWOY_cfBVB9gCFsQ_2vb9a4BQ1qsWVziWQ&s">
